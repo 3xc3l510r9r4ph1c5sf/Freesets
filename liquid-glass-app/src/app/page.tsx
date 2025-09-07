@@ -1,5 +1,9 @@
 import { ResponsiveBentoGrid } from "@/components/ui/responsive-bento";
 
 export default function Home() {
-  return <ResponsiveBentoGrid />;
+  return (
+    <main>
+      <ResponsiveBentoGrid />
+    </main>
+  );
 }
