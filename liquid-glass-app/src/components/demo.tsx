@@ -1,4 +1,4 @@
-import { Component } from "@/components/ui/liquid-glass";
+import { Component } from "@/components/ui/bento-grid";
 
 const DemoOne = () => {
   return <Component />;
